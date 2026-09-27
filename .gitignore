@@ -1,0 +1,38 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Configurações locais
+.env
+
+# Chaves e credenciais
+secrets.json
+credentials.json
+
+# Build do PyInstaller
+build/
+dist/
+*.spec
+
+# Arquivos do PyCharm
+.idea/
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos de sistema
+*.bak
